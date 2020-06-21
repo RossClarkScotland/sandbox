@@ -1,0 +1,22 @@
+
+
+
+nav {
+    background: rgb(70, 68, 68);
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 14px;
+    margin: 15px;
+}
+
+nav ul li a {
+    color: #fafafa;
+    font-family: "Exo", sans-serif;
+    text-transform: uppercase;
+}
